@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-model-attribute
+  freemarker:
+    template-loader-path: classpath:/templates/
+server:
+  port: 9091
